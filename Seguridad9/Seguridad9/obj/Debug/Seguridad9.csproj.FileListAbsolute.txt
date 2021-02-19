@@ -1,0 +1,10 @@
+C:\Users\Isai - HP\source\repos\Seguridad9\Seguridad9\bin\Debug\Seguridad9.exe.config
+C:\Users\Isai - HP\source\repos\Seguridad9\Seguridad9\bin\Debug\Seguridad9.exe
+C:\Users\Isai - HP\source\repos\Seguridad9\Seguridad9\bin\Debug\Seguridad9.pdb
+C:\Users\Isai - HP\source\repos\Seguridad9\Seguridad9\obj\Debug\Seguridad9.FormPrincipal.resources
+C:\Users\Isai - HP\source\repos\Seguridad9\Seguridad9\obj\Debug\Seguridad9.Properties.Resources.resources
+C:\Users\Isai - HP\source\repos\Seguridad9\Seguridad9\obj\Debug\Seguridad9.csproj.GenerateResource.cache
+C:\Users\Isai - HP\source\repos\Seguridad9\Seguridad9\obj\Debug\Seguridad9.csproj.CoreCompileInputs.cache
+C:\Users\Isai - HP\source\repos\Seguridad9\Seguridad9\obj\Debug\Seguridad9.exe
+C:\Users\Isai - HP\source\repos\Seguridad9\Seguridad9\obj\Debug\Seguridad9.pdb
+C:\Users\Isai - HP\source\repos\Seguridad9\Seguridad9\obj\Debug\Seguridad9.csprojAssemblyReference.cache
